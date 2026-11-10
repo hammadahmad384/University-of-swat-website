@@ -1,0 +1,7 @@
+Swat valley in Layers
+Author: Tariq siddiq kohistani
+Original: https://commons.wikimedia.org/wiki/File:Swat_valley_in_Layers.jpg
+Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+Adaptations: WebP compression; responsive images at 800x413, 1200x619, 1800x929; 1200x630 social-preview crop; CSS cropping in page layouts.
+Files: swat-valley-800.webp, swat-valley-1200.webp, swat-valley-real.webp, swat-social.webp.
+All adapted images are shared under CC BY-SA 4.0.

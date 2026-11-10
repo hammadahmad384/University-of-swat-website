@@ -1,0 +1,8 @@
+{
+  "name": "university-of-swat-concept",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "build": "node scripts/build.mjs" },
+  "devDependencies": { "cssnano": "9.9.0", "postcss": "8.5.32", "terser": "5.51.2" }
+}
