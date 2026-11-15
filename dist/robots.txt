@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://swat-digital-campus-hammad.hammadahmd5.chatgpt.site/sitemap.xml
+Sitemap: https://university-of-swat-website.vercel.app/sitemap.xml

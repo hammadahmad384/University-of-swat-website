@@ -2,6 +2,12 @@
 
 The existing forest green, gold and ivory design and page structure are retained. These changes improve clarity, search, accessibility and delivery without replacing the site.
 
+## Vercel deployment configuration
+
+- `vercel.json`: explicitly build and publish `dist` to correct Vercel's missing `public` output-directory error; serve clean page URLs with the existing branded 404.
+- `dist/*.html`, `dist/robots.txt`, `dist/sitemap.xml`: use the verified production domain `https://university-of-swat-website.vercel.app` for canonical URLs, share metadata and discovery.
+- `README.md`: link to the Vercel website and document deployments from GitHub. Site layout, source content, programme records and image licences are preserved.
+
 ## Pages and sources
 
 - `dist/index.html`: renamed Services & Notices while preserving `#notices`; added the exact 58-versus-54 explanation; differentiated the two portal subtitles; added programme aliases, the responsive hero image and optimized portrait/entrance references.

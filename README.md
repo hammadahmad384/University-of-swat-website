@@ -2,7 +2,7 @@
 
 A static, independent competition website built with HTML5, CSS3 and vanilla JavaScript. It is clearly identified as a student concept, not an official university service.
 
-[Open the live website](https://swat-digital-campus-hammad.hammadahmd5.chatgpt.site/) · [GitHub repository](https://github.com/hammadahmad384/University-of-swat-website)
+[Open the live website](https://university-of-swat-website.vercel.app/) · [GitHub repository](https://github.com/hammadahmad384/University-of-swat-website)
 
 ## Pages and content
 
@@ -38,6 +38,6 @@ The hero uses responsive copies of an authentic licensed Swat photograph. The po
 
 See [QA-REPORT.md](QA-REPORT.md) for browser checks and measured mobile Lighthouse scores, and [CHANGELOG.md](CHANGELOG.md) for changes by file and intentional limitations.
 
-The complete website is in `dist/`; editable styling and JavaScript are in `src/`. This repository contains the published version 6 project, transferred from source commit `26483c423ccb83763237dc1f4308cc7706efa095`. The existing live preview remains on its current host; pushing to this repository does not automatically redeploy it.
+The complete website is in `dist/`; editable styling and JavaScript are in `src/`. This repository contains the published version 6 project, transferred from source commit `26483c423ccb83763237dc1f4308cc7706efa095`. Vercel uses the committed `vercel.json` configuration to install dependencies, run the build and publish `dist/`. Pushes to `main` automatically trigger production deployments through the connected GitHub repository.
 
 For another static host, publish `dist/` and configure missing URLs to return `404.html` with HTTP status 404. Update canonical URLs, share-image URLs, `robots.txt` and `sitemap.xml` if the public domain changes. A project-path host also needs base-path adjustments for the root-relative 404 links. The original host-specific `.openai/hosting.json` binding is intentionally excluded; it is not needed to build or run the website.
