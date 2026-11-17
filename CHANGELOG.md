@@ -1,5 +1,14 @@
 # Student journey review — pending approval
 
+## Latest homepage refinement
+
+- `dist/index.html`: opt into the landscape hero treatment; change only the casing of the welcome/location labels. Copy, links, images and data remain unchanged.
+- `src/site.css`, `dist/site.min.css`: reveal more of the real valley photograph, strengthen headline hierarchy, use a horizontal geographic caption, improve mobile service links and preserve large-text wrapping and visible focus.
+- `dist/review/walkthrough.mp4`: refresh the opening shot in the existing demonstration.
+- `LANDING-REVIEW.md`: visual rationale, three background-photo ideas and targeted accessibility/layout results; `REVIEW-QA.md`: latest mobile Lighthouse measurement.
+
+## Student journey features
+
 - `src/catalogue.js`, `dist/catalogue.js`: stable IDs for all 57 records; sourced summaries, duration where verified, department and curriculum references for six general listings. All original fields retained.
 - `src/script.js`, `dist/script.js`: up-to-five shortlist, defensive browser storage, cross-tab synchronization, persistent preparation checklist, print action, active filter chips, useful empty-state actions, saved-only filter, copy-search fallback and full-directory results from global search. Existing keyboard/search behaviour retained.
 - `src/site.css`, `dist/site.min.css`: targeted styles for the added controls and saved plan, tighter mobile spacing, print-only plan layout and focus-outline cleanup. Existing colours, screen focus cues and reduced motion retained.

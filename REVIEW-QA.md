@@ -1,5 +1,17 @@
 # Verification — student journey draft
 
+## Latest landscape homepage pass
+
+The homepage opening and service-link styling were subsequently refined; details are in `LANDING-REVIEW.md`. The exact homepage content is preserved apart from label casing, with all IDs, image sources and destinations unchanged.
+
+- Six widths (360, 390, 768, 1024, 1280, 1440): no overflow or collision between hero copy and the bottom strip.
+- Homepage axe at 390 and 1440 px: zero reported violations; sampled hero text/background contrast is at least 6.92:1.
+- A 96px mobile headline wraps without clipping. No running animations under reduced motion. No-JavaScript navigation/full directory and the enhanced search/six-card view pass targeted checks.
+- Updated isolated mobile Lighthouse: **97 Performance / 100 Accessibility / 100 Best Practices / 100 SEO**. LCP 2.0 s, CLS 0, total blocking time 180 ms. This is a local lab result.
+- The larger mobile photograph intentionally gives the valley more space; the prior iteration's 568px hero-height measurement below no longer describes this opening. Its content-driven hero is approximately 680px at 390px width.
+
+## Earlier student journey checks
+
 These checks apply to the unpublished student-journey iteration. The historical `QA-REPORT.md` describes the earlier release. Tests used Chromium with Playwright, axe-core and Lighthouse 13.6.0 against the locally served static build.
 
 ## Mobile Lighthouse (homepage)
