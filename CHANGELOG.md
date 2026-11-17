@@ -1,3 +1,29 @@
+# Student journey review — pending approval
+
+## Latest homepage refinement
+
+- `dist/index.html`: opt into the landscape hero treatment; change only the casing of the welcome/location labels. Copy, links, images and data remain unchanged.
+- `src/site.css`, `dist/site.min.css`: reveal more of the real valley photograph, strengthen headline hierarchy, use a horizontal geographic caption, improve mobile service links and preserve large-text wrapping and visible focus.
+- `dist/review/walkthrough.mp4`: refresh the opening shot in the existing demonstration.
+- `LANDING-REVIEW.md`: visual rationale, three background-photo ideas and targeted accessibility/layout results; `REVIEW-QA.md`: latest mobile Lighthouse measurement.
+
+## Student journey features
+
+- `src/catalogue.js`, `dist/catalogue.js`: stable IDs for all 57 records; sourced summaries, duration where verified, department and curriculum references for six general listings. All original fields retained.
+- `src/script.js`, `dist/script.js`: up-to-five shortlist, defensive browser storage, cross-tab synchronization, persistent preparation checklist, print action, active filter chips, useful empty-state actions, saved-only filter, copy-search fallback and full-directory results from global search. Existing keyboard/search behaviour retained.
+- `src/site.css`, `dist/site.min.css`: targeted styles for the added controls and saved plan, tighter mobile spacing, print-only plan layout and focus-outline cleanup. Existing colours, screen focus cues and reduced motion retained.
+- `dist/index.html`: direct finder CTA, three-step journey, programme save controls and six researched details.
+- `dist/academics.html`: journey, source-backed programme details, save controls, filter tools and recovery/status elements.
+- `dist/admissions.html`: application-plan panel, independent checklist reset, saved progress messaging and print controls.
+- `dist/index.html`, `dist/academics.html`, `dist/admissions.html`, `dist/campus.html`, `dist/leadership.html`, `dist/credits.html`, `dist/404.html`: added the application-plan footer destination; original links/content retained.
+- `SOURCES.md`: evidence for programme descriptions and published durations.
+- `README.md`: review workflow and presentation assets; `DESIGN-REVIEW.md`: Oxford references, rationale and phone review steps; `REVIEW-QA.md`: current checks and Lighthouse results.
+- `dist/review/case-study.html`, `dist/review/case-study.pdf`, `dist/review/walkthrough.mp4`: concise competition presentation materials, separate from university navigation.
+
+Intentional limits: no production push, no backend or accounts, no invented official facts, no enriched facts for programmes not researched in this iteration. Economics duration remains unverified. Personal saved data is browser-local and is excluded from shareable search links. The private Sites mirror uses separate hosting metadata and noindex directives; production source metadata remains unchanged.
+
+---
+
 # Targeted refinement — 10 November 2026
 
 The existing forest green, gold and ivory design and page structure are retained. These changes improve clarity, search, accessibility and delivery without replacing the site.

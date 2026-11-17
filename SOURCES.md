@@ -50,3 +50,14 @@ The existing locally stored logo is from the official CMS. The valley image is t
 The user supplied three screenshots of the official university website. The VC screenshot contains three paragraphs beginning “It is with immense pride…” and ending “global community.” Those paragraphs are transcribed verbatim into the leadership section, replacing the previous paraphrase. This is an excerpt, not a claim to reproduce the full address behind Read More.
 The counters screenshot displays 2 campuses, 58 UG programs, 19 MS/MPhil programs, 13 doctorate programs, 152 faculty and 9,230 students. The reporting period is absent. The site attributes these to the supplied official-site screenshots without inventing an as-of measurement date.
 The About screenshot describes the starting cohort (7 disciplines, 272 students) and explicitly historical 2017 figures (22 teaching departments, 49 programs, 2 sub-campuses, more than 3,000 students). The exact supplied paragraph is in a native disclosure labelled as history through 2017. These figures are not used as current counters.
+
+
+## Review build: published programme detail sources
+
+The first six main-listing programme cards now include concise summaries of official departmental material. These are published study details, not confirmation of current intake, eligibility, fees or a campus assignment. Existing admission-poster records and all campus labels are retained.
+
+- Computer Science and Software Engineering: [department](https://uswat.edu.pk/department-of-computer-and-software-technology/) and [published BOF curriculum](https://uswat.edu.pk/wp-content/uploads/2019/09/BOF-File.pdf). The individual CS and Software Engineering sections each specify eight semesters across four years.
+- Environmental Sciences: [department](https://uswat.edu.pk/department-of-environmental-sciences/) and [published scheme of studies](https://uswat.edu.pk/wp-content/uploads/2019/09/Scheme-of-Studies-for-BS-4-years-Environmental-sciences.docx). The department explicitly lists the four-year BS.
+- BBA (Hons): [department](https://uswat.edu.pk/department-of-management-commerce/) and [published BBA curriculum](https://uswat.edu.pk/wp-content/uploads/2025/10/Bachelor-of-Business-Administration-BBA.pdf), which identifies a four-year programme, internship and capstone.
+- Economics: [department](https://uswat.edu.pk/department-of-economics-and-development-studies/). Duration remains unspecified: the linked curriculum document was unavailable when checked, so no broken curriculum link is included.
+- B.Ed (Hons): [department](https://uswat.edu.pk/department_of_education_and_staff_training/) and [published B.Ed schemes](https://uswat.edu.pk/wp-content/uploads/2025/09/Scheme-of-Studies-B.Ed-4-year-and-B.Ed-1.5.pdf). The four-year B.Ed (Hons) section supports the displayed duration; the separate 1.5-year programme is not conflated with it.

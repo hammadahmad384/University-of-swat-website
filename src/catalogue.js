@@ -8,7 +8,13 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "cs it programming coding computing software computers",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-computer-science",
+    "summary": "Builds a foundation in computing theory, programming and practical problem solving, with supporting mathematics, specialist electives and a final-year project.",
+    "departmentUrl": "https://uswat.edu.pk/department-of-computer-and-software-technology/",
+    "duration": "4 years",
+    "curriculumUrl": "https://uswat.edu.pk/wp-content/uploads/2019/09/BOF-File.pdf",
+    "curriculumLabel": "Published computing curriculum (PDF)"
   },
   {
     "title": "BS Software Engineering",
@@ -18,7 +24,13 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "se software programming coding computing development applications",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-software-engineering",
+    "summary": "Combines computing theory with the design, development and testing of software, including project management, teamwork and professional communication.",
+    "departmentUrl": "https://uswat.edu.pk/department-of-computer-and-software-technology/",
+    "duration": "4 years",
+    "curriculumUrl": "https://uswat.edu.pk/wp-content/uploads/2019/09/BOF-File.pdf",
+    "curriculumLabel": "Published computing curriculum (PDF)"
   },
   {
     "title": "BS Environmental Sciences",
@@ -30,7 +42,12 @@ window.UOS_PROGRAMS = [
     "keywords": "environment environmental ecology sustainability conservation pollution",
     "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
     "duration": "4 years",
-    "detailSource": "https://uswat.edu.pk/department-of-environmental-sciences/"
+    "detailSource": "https://uswat.edu.pk/department-of-environmental-sciences/",
+    "id": "undergraduate-unspecified-bs-environmental-sciences",
+    "summary": "Studies environmental systems and scientific approaches to understanding environmental change, protecting natural resources and supporting sustainable development.",
+    "departmentUrl": "https://uswat.edu.pk/department-of-environmental-sciences/",
+    "curriculumUrl": "https://uswat.edu.pk/wp-content/uploads/2019/09/Scheme-of-Studies-for-BS-4-years-Environmental-sciences.docx",
+    "curriculumLabel": "Published scheme of studies (Word document)"
   },
   {
     "title": "BBA (Hons)",
@@ -40,7 +57,13 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "business administration management bba commerce",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bba-hons",
+    "summary": "Combines management, marketing, finance, accounting and human resources with practical learning through an internship and capstone project.",
+    "departmentUrl": "https://uswat.edu.pk/department-of-management-commerce/",
+    "duration": "4 years",
+    "curriculumUrl": "https://uswat.edu.pk/wp-content/uploads/2025/10/Bachelor-of-Business-Administration-BBA.pdf",
+    "curriculumLabel": "Published BBA curriculum (PDF)"
   },
   {
     "title": "BS Economics",
@@ -50,7 +73,10 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "economics eco economy markets business",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-economics",
+    "summary": "Develops theoretical and applied economic understanding, critical thinking and research skills for examining development challenges and public-policy questions.",
+    "departmentUrl": "https://uswat.edu.pk/department-of-economics-and-development-studies/"
   },
   {
     "title": "B.Ed (Hons)",
@@ -60,7 +86,13 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "education teaching teacher bed pedagogy",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-b-ed-hons",
+    "summary": "Prepares future teachers through education theory, professional teaching skills and research, with an emphasis on inclusive learning and educational leadership.",
+    "departmentUrl": "https://uswat.edu.pk/department_of_education_and_staff_training/",
+    "duration": "4 years",
+    "curriculumUrl": "https://uswat.edu.pk/wp-content/uploads/2025/09/Scheme-of-Studies-B.Ed-4-year-and-B.Ed-1.5.pdf",
+    "curriculumLabel": "Published B.Ed schemes of studies (PDF)"
   },
   {
     "title": "B.Ed (1.5 year)",
@@ -70,7 +102,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "education teaching teacher bed pedagogy",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-b-ed-1-5-year"
   },
   {
     "title": "BS Accounting and Finance",
@@ -80,7 +113,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "accounting accounts finance financial business commerce",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-accounting-and-finance"
   },
   {
     "title": "BS Archaeology",
@@ -90,7 +124,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "archaeology archeology heritage antiquities history",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-archaeology"
   },
   {
     "title": "BS Artificial Intelligence",
@@ -100,7 +135,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "ai artificial intelligence machine learning computing programming",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-artificial-intelligence"
   },
   {
     "title": "BS Biotechnology",
@@ -110,7 +146,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "biotech biotechnology biology biological technology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-biotechnology"
   },
   {
     "title": "BS Botany",
@@ -120,7 +157,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "botany plants plant biology vegetation",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-botany"
   },
   {
     "title": "BS Botany",
@@ -130,7 +168,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "botany plants plant biology vegetation",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-botany"
   },
   {
     "title": "BS Business Analytics",
@@ -140,7 +179,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "business analytics analysis data management",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-business-analytics"
   },
   {
     "title": "BS Chemistry",
@@ -150,7 +190,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "chem chemistry chemical chemicals science",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-chemistry"
   },
   {
     "title": "BS Computer Science",
@@ -160,7 +201,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "cs it programming coding computing software computers",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-computer-science"
   },
   {
     "title": "BS Criminology",
@@ -170,7 +212,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "criminology crime criminal justice policing",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-criminology"
   },
   {
     "title": "BS Culinary Art",
@@ -180,7 +223,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "culinary cooking food chef cuisine",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-culinary-art"
   },
   {
     "title": "BS Data Science",
@@ -190,7 +234,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "data ds analytics analysis statistics computing programming",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-data-science"
   },
   {
     "title": "BS Dental Technology",
@@ -200,7 +245,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "dental dentistry teeth oral health technology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-dental-technology"
   },
   {
     "title": "BS Development Studies",
@@ -210,7 +256,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "development society social community policy",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-development-studies"
   },
   {
     "title": "BS Digital Marketing",
@@ -220,7 +267,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "digital marketing advertising online business media",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-digital-marketing"
   },
   {
     "title": "BS Disaster Preparedness and Climate Change",
@@ -232,7 +280,8 @@ window.UOS_PROGRAMS = [
     "keywords": "disaster preparedness climate change environment risk resilience",
     "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
     "duration": "4 years",
-    "detailSource": "https://uswat.edu.pk/department-of-environmental-sciences/"
+    "detailSource": "https://uswat.edu.pk/department-of-environmental-sciences/",
+    "id": "undergraduate-unspecified-bs-disaster-preparedness-and-climate-change"
   },
   {
     "title": "BS English",
@@ -242,7 +291,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "english eng literature language linguistics writing",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-english"
   },
   {
     "title": "BS English",
@@ -252,7 +302,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "english eng literature language linguistics writing",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-english"
   },
   {
     "title": "BS Fisheries and Aquaculture",
@@ -262,7 +313,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "fisheries fish aquaculture aquatic biology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-fisheries-and-aquaculture"
   },
   {
     "title": "BS Forensic Science",
@@ -272,7 +324,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "forensic forensics investigation evidence science",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-forensic-science"
   },
   {
     "title": "BS Forestry",
@@ -282,7 +335,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "forestry forest forests trees conservation environment",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-forestry"
   },
   {
     "title": "BS Genetics",
@@ -292,7 +346,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "genetics genetic genes dna heredity biology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-genetics"
   },
   {
     "title": "BS Geology",
@@ -302,7 +357,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "geology earth rocks minerals geoscience",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-geology"
   },
   {
     "title": "BS Home Economics",
@@ -312,7 +368,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "home economics household family consumer studies",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-home-economics"
   },
   {
     "title": "BS Information Technology",
@@ -322,7 +379,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "it information technology computers computing networks systems",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-information-technology"
   },
   {
     "title": "BS Islamic Banking and Finance",
@@ -332,7 +390,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "islamic banking finance financial business shariah",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-islamic-banking-and-finance"
   },
   {
     "title": "BS Islamic Studies",
@@ -342,7 +401,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "islam islamic studies religion religious theology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-islamic-studies"
   },
   {
     "title": "BS Mathematical Data Science",
@@ -352,7 +412,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "math maths mathematics mathematical data analysis analytics statistics",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-mathematical-data-science"
   },
   {
     "title": "BS Mathematics",
@@ -362,7 +423,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "math maths mathematics mathematical algebra calculus",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-mathematics"
   },
   {
     "title": "BS Media & Communication Studies",
@@ -372,7 +434,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "media communication communications journalism broadcasting mass communication",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-media-communication-studies"
   },
   {
     "title": "BS Medical Laboratory Technology",
@@ -382,7 +445,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "mlt medical laboratory lab diagnostics health technology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-medical-laboratory-technology"
   },
   {
     "title": "BS Microbiology",
@@ -392,7 +456,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "microbiology microbes microorganisms bacteria biology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-microbiology"
   },
   {
     "title": "BS Pakistan Studies",
@@ -402,7 +467,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "pakistan pak studies history culture society",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-pakistan-studies"
   },
   {
     "title": "BS Pashto",
@@ -412,7 +478,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "pashto pushto pakhto language literature",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-pashto"
   },
   {
     "title": "BS Peace and Conflict Studies",
@@ -422,7 +489,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "peace conflict resolution society negotiation",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-peace-and-conflict-studies"
   },
   {
     "title": "BS Physics",
@@ -432,7 +500,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "physics phys physical science matter energy",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-physics"
   },
   {
     "title": "BS Psychology",
@@ -442,7 +511,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "psychology psych mind behaviour behavior mental",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-psychology"
   },
   {
     "title": "BS Psychology",
@@ -452,7 +522,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "psychology psych mind behaviour behavior mental",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-psychology"
   },
   {
     "title": "BS Radiography and Imaging Technology",
@@ -462,7 +533,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "radiography imaging radiology medical diagnostic health technology",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-radiography-and-imaging-technology"
   },
   {
     "title": "BS Sociology",
@@ -472,7 +544,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "sociology social society community culture",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-sociology"
   },
   {
     "title": "BS Statistics",
@@ -482,7 +555,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "statistics stats statistical data analysis probability",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-statistics"
   },
   {
     "title": "BS Tourism and Hospitality",
@@ -492,7 +566,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "tourism hospitality travel hotels visitors",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-tourism-and-hospitality"
   },
   {
     "title": "BS Urdu",
@@ -502,7 +577,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "urdu language literature writing",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-urdu"
   },
   {
     "title": "BS Zoology",
@@ -512,7 +588,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "zoology animals animal biology wildlife",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-bs-zoology"
   },
   {
     "title": "BS Zoology",
@@ -522,7 +599,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "zoology animals animal biology wildlife",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-women-bs-zoology"
   },
   {
     "title": "Doctor of Physical Therapy",
@@ -532,7 +610,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "dpt physiotherapy physical therapy rehabilitation movement health",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-doctor-of-physical-therapy"
   },
   {
     "title": "LL.B Law and Shariah (5 Year)",
@@ -542,7 +621,8 @@ window.UOS_PROGRAMS = [
     "level": "undergraduate",
     "levelLabel": "Undergraduate",
     "keywords": "llb law legal sharia shariah jurisprudence",
-    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg"
+    "source": "https://cms1.uswat.edu.pk/web/image/276115/818365466_1508139098014097_4799951831198669758_n-854x1536.jpg",
+    "id": "undergraduate-unspecified-ll-b-law-and-shariah-5-year"
   },
   {
     "title": "MS / MPhil Environmental Sciences",
@@ -552,7 +632,8 @@ window.UOS_PROGRAMS = [
     "level": "masters",
     "levelLabel": "MS / MPhil",
     "keywords": "environment environmental ecology sustainability conservation ms mphil masters postgraduate",
-    "source": "https://uswat.edu.pk/department-of-environmental-sciences/"
+    "source": "https://uswat.edu.pk/department-of-environmental-sciences/",
+    "id": "masters-unspecified-ms-mphil-environmental-sciences"
   },
   {
     "title": "PhD Environmental Sciences",
@@ -562,7 +643,8 @@ window.UOS_PROGRAMS = [
     "level": "doctorate",
     "levelLabel": "Doctorate",
     "keywords": "environment environmental ecology sustainability conservation phd doctorate doctoral postgraduate",
-    "source": "https://uswat.edu.pk/department-of-environmental-sciences/"
+    "source": "https://uswat.edu.pk/department-of-environmental-sciences/",
+    "id": "doctorate-unspecified-phd-environmental-sciences"
   },
   {
     "title": "Postgraduate Diploma in Geomatics (GIS and RS)",
@@ -573,6 +655,7 @@ window.UOS_PROGRAMS = [
     "levelLabel": "Postgraduate diploma",
     "keywords": "geomatics gis rs geographic geographical information systems remote sensing mapping spatial postgraduate diploma",
     "source": "https://uswat.edu.pk/department-of-environmental-sciences/",
-    "duration": "1 year"
+    "duration": "1 year",
+    "id": "diploma-unspecified-postgraduate-diploma-in-geomatics-gis-and-rs"
   }
 ];

@@ -18,6 +18,12 @@ The homepage includes 54 undergraduate campus listings from the Fall 2026 poster
 
 ## Edit and build
 
+### Student journey review draft
+
+This local review adds a programme shortlist, a persistent preparation checklist, printable plans, six sourced programme summaries and clearer search controls. Read [DESIGN-REVIEW.md](DESIGN-REVIEW.md) for the scope, Oxford references, phone walkthrough and limitations; [REVIEW-QA.md](REVIEW-QA.md) records checks for this iteration. The historical QA report below describes the previous release.
+
+This branch is awaiting user review. Do not push it to `main` or deploy to Vercel before approval. Presentation assets are under `dist/review/` and are separate from the university navigation.
+
 The published website needs no server-side application or runtime dependencies. Node is used only to prepare optimized static files. Use Node 24.15 or a newer 24.x release with npm for the pinned build tools; Python 3 is needed only for the optional local preview command.
 
 1. Install the development tools with `npm ci`.
