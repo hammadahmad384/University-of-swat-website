@@ -2979,7 +2979,21 @@ main {
 }
 @media(max-width:760px) {
 .hero {
-  min-height: 665px
+  min-height: 560px
+}
+.hero-content {
+  padding-top: 32px;
+  padding-bottom: 96px
+}
+.hero-copy {
+  margin-top: 0
+}
+.hero h1 {
+  margin-top: 22px;
+  margin-bottom: 20px
+}
+.hero-copy>p {
+  margin-bottom: 24px
 }
 .hero-image {
   object-position: 61% center
@@ -3025,5 +3039,488 @@ to {
 }
 .hero-copy:focus-within>* {
   animation: none
+}
+}
+
+/* Student tools follow the existing academic palette and type scale. */
+.student-journey {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 24px;
+  margin: 24px 0 0;
+  padding: 0;
+  list-style: none
+}
+.student-journey .journey-step {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  min-height: 44px;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 1.5;
+  color: var(--green)
+}
+.student-journey a.journey-step {
+  text-decoration: underline;
+  text-underline-offset: 5px
+}
+.page-intro .journey-step {
+  color: #f6e8c6
+}
+.program-save,.program-tools button,.plan-link,.filter-chip,
+.empty-recovery,.saved-program-remove,.plan-actions button,#reset-preparation {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  min-height: 44px;
+  max-width: 100%;
+  padding: 10px 14px;
+  border: 1px solid var(--green);
+  border-radius: 3px;
+  background: #fff;
+  color: var(--green);
+  font: 700 13px/1.5 Arial,'DejaVu Sans',sans-serif;
+  overflow-wrap: anywhere
+}
+.program-save {
+  width: 100%;
+  margin-top: 12px
+}
+.program-save:hover,.program-tools button:hover,.plan-link:hover,
+.filter-chip:hover,.empty-recovery:hover,.saved-program-remove:hover,
+.plan-actions button:hover,#reset-preparation:hover {
+  background: #edf3eb
+}
+.program-save[aria-pressed="true"],#toggle-saved-programs[aria-pressed="true"],
+#print-application-plan {
+  background: var(--green);
+  color: #fff
+}
+.program-save[aria-pressed="true"]:hover,#toggle-saved-programs[aria-pressed="true"]:hover,
+#print-application-plan:hover {
+  background: var(--green2)
+}
+.program-toolbar {
+  margin: 0 0 22px;
+  padding: 16px 18px;
+  border: 1px solid #d5dccf;
+  background: #f8f7ef
+}
+.program-tools {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px
+}
+.plan-link {
+  margin-left: auto;
+  text-align: center
+}
+.plan-link [data-saved-count] {
+  display: inline-grid;
+  place-items: center;
+  min-width: 24px;
+  min-height: 24px;
+  padding: 1px 5px;
+  border-radius: 50%;
+  background: #efe4c8;
+  font-size: 12px
+}
+.active-filter-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px
+}
+.active-filter-list:empty,.tool-status:empty,.plan-status:empty {
+  display: none
+}
+.filter-chip {
+  justify-content: space-between;
+  padding: 8px 12px;
+  border-color: #829a88;
+  font-size: 12px;
+  text-align: left
+}
+.share-fallback {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  margin-top: 12px;
+  padding: 10px 12px;
+  border: 1px solid #829a88;
+  border-radius: 2px;
+  background: white;
+  color: var(--ink);
+  font-size: 16px
+}
+.tool-status,.plan-status {
+  margin: 12px 0 0;
+  font-size: 13px;
+  line-height: 1.65;
+  color: var(--green)
+}
+#empty-program-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px
+}
+.empty-recovery {
+  text-align: center
+}
+.search-directory-link {
+  border: 1px solid #b6c6b8;
+  border-left: 3px solid #806124;
+  background: #f5f3e9
+}
+.program-details .program-summary {
+  color: #455d4e
+}
+.program-facts {
+  display: grid;
+  grid-template-columns: minmax(0,1fr);
+  gap: 4px;
+  margin: 14px 0;
+  padding: 14px 0;
+  border-block: 1px solid #dfe5d9
+}
+.program-facts dt {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--green)
+}
+.program-facts dd {
+  margin: 0 0 9px;
+  font-size: 13px;
+  line-height: 1.65;
+  color: #455d4e
+}
+.program-facts dd:last-child {
+  margin-bottom: 0
+}
+.program-source-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 18px;
+  margin-top: 8px
+}
+.application-plan {
+  background: #f7f5ec;
+  border-block: 1px solid #dce3d6
+}
+.plan-layout {
+  display: grid;
+  grid-template-columns: minmax(0,.85fr) minmax(0,1.15fr);
+  align-items: start;
+  gap: 60px
+}
+.plan-layout>* {
+  min-width: 0
+}
+.plan-overview h2 {
+  font-size: clamp(36px,4.4vw,52px);
+  margin: 20px 0
+}
+.plan-overview>p {
+  max-width: 530px;
+  font-size: 15px;
+  line-height: 1.85;
+  color: #455d4e
+}
+.plan-print-heading {
+  display: none
+}
+.saved-program-list {
+  display: grid;
+  gap: 14px;
+  margin: 0;
+  padding: 0;
+  list-style: none
+}
+.saved-program-item,#saved-program-empty {
+  padding: 22px 24px;
+  border: 1px solid #c5d1c4;
+  background: white
+}
+.saved-program-item h3 {
+  margin: 0 0 9px;
+  font: 400 25px/1.3 Georgia,'Times New Roman',serif;
+  color: var(--green)
+}
+.saved-program-item p,#saved-program-empty {
+  font-size: 14px;
+  line-height: 1.75;
+  color: #455d4e
+}
+.saved-program-item p {
+  margin: 0 0 10px
+}
+.saved-program-item .saved-program-meta {
+  font-size: 13px
+}
+.saved-program-links {
+  display: flex;
+  align-items: start;
+  flex-wrap: wrap;
+  gap: 0 18px
+}
+.saved-program-links a,#saved-program-empty a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 8px 0;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--green);
+  text-decoration: underline;
+  text-underline-offset: 4px
+}
+.saved-program-remove {
+  margin-top: 10px;
+  padding: 8px 12px;
+  font-size: 12px
+}
+#saved-program-empty {
+  margin: 0
+}
+.plan-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 24px
+}
+.plan-actions button:disabled {
+  background: #edf0e7;
+  border-color: #8da193;
+  color: #52665a;
+  cursor: default
+}
+.plan-note {
+  font-size: 13px;
+  line-height: 1.75;
+  color: #52665a
+}
+#reset-preparation {
+  margin-top: 12px
+}
+@media(max-width:1030px) {
+.plan-layout {
+  gap: 32px
+}
+}
+@media(max-width:760px) {
+body[data-page="academics"] .page-intro {
+  padding-top: 16px;
+  padding-bottom: 28px
+}
+body[data-page="academics"] .page-intro .eyebrow {
+  margin-top: 16px
+}
+body[data-page="academics"] .page-intro h1 {
+  margin: 14px 0 16px
+}
+body[data-page="academics"] .page-intro p {
+  line-height: 1.65
+}
+body[data-page="academics"] #academics {
+  padding-top: 40px
+}
+body[data-page="academics"] #academics .section-heading,
+.home-catalogue .section-heading {
+  gap: 18px;
+  margin-bottom: 24px
+}
+body[data-page="academics"] #academics .section-heading h2,
+.home-catalogue .section-heading h2 {
+  font-size: clamp(34px,8.5vw,42px);
+  line-height: 1.15
+}
+.catalogue-filters {
+  gap: 14px;
+  padding: 18px;
+  margin-bottom: 18px
+}
+.query-input {
+  flex-direction: row;
+  gap: 8px
+}
+.query-input button {
+  width: auto;
+  padding-inline: 14px
+}
+.catalogue-note {
+  line-height: 1.65;
+  margin: 14px 0 18px
+}
+.student-journey {
+  gap: 6px 16px;
+  margin-top: 18px
+}
+.student-journey .journey-step {
+  font-size: 12px
+}
+.program-toolbar {
+  padding: 14px;
+  margin-bottom: 18px
+}
+.program-tools>* {
+  flex: 1 1 135px
+}
+.plan-link {
+  margin-left: 0
+}
+.plan-layout {
+  grid-template-columns: 1fr;
+  gap: 24px
+}
+.plan-overview h2 {
+  font-size: 36px
+}
+.saved-program-item,#saved-program-empty {
+  padding: 20px
+}
+.plan-actions button {
+  flex: 1 1 150px
+}
+}
+
+/* An application plan prints as a complete document, without page chrome. */
+@media print {
+body[data-page="admissions"] {
+  background: #fff;
+  color: #19352b;
+  font-size: 11pt
+}
+body[data-page="admissions"] :focus {
+  outline: none;
+  box-shadow: none
+}
+body[data-page="admissions"]> :not(main),
+body[data-page="admissions"] main> :not(#my-plan):not(#prepare),
+body[data-page="admissions"] :is(button,.plan-actions,.tool-status,.plan-status,.sr-only,.student-journey,.plan-note) {
+  display: none!important
+}
+body[data-page="admissions"] :is(.container,.plan-layout,.preparation-layout) {
+  display: block;
+  width: 100%;
+  max-width: none
+}
+body[data-page="admissions"] :is(#my-plan,#prepare) {
+  display: block!important;
+  padding: 0;
+  margin: 0 0 8mm;
+  border: 0;
+  background: #fff
+}
+body[data-page="admissions"] .plan-print-heading {
+  display: block;
+  padding-bottom: 4mm;
+  margin-bottom: 5mm;
+  border-bottom: 1pt solid #19352b;
+  font-size: 11pt;
+  line-height: 1.5
+}
+body[data-page="admissions"] .plan-print-heading strong {
+  font-size: 15pt
+}
+body[data-page="admissions"] .plan-print-heading small {
+  display: block;
+  font-size: 9pt
+}
+body[data-page="admissions"] :is(.plan-overview,#prepare .preparation-layout)>div>.eyebrow,
+body[data-page="admissions"] .plan-overview>.eyebrow {
+  display: none
+}
+body[data-page="admissions"] :is(#my-plan,#prepare) h2 {
+  margin: 4mm 0;
+  font-size: 20pt;
+  line-height: 1.2
+}
+body[data-page="admissions"] .plan-overview>p,
+body[data-page="admissions"] .preparation-layout p {
+  font-size: 10pt;
+  line-height: 1.5;
+  margin: 0 0 4mm
+}
+body[data-page="admissions"] .saved-program-list {
+  display: block;
+  margin: 5mm 0
+}
+body[data-page="admissions"] .saved-program-item,
+body[data-page="admissions"] #saved-program-empty {
+  margin-bottom: 3mm;
+  padding: 3mm 4mm;
+  break-inside: avoid;
+  box-shadow: none
+}
+body[data-page="admissions"] .saved-program-item h3 {
+  font-size: 14pt;
+  margin-bottom: 2mm
+}
+body[data-page="admissions"] .saved-program-item p {
+  font-size: 9pt;
+  line-height: 1.45;
+  margin-bottom: 1mm
+}
+body[data-page="admissions"] .saved-program-links {
+  display: block
+}
+body[data-page="admissions"] .saved-program-links a {
+  display: block;
+  min-height: 0;
+  padding: 1mm 0;
+  font-size: 9pt;
+  line-height: 1.4
+}
+body[data-page="admissions"] .saved-program-links a:not([href^="http"]) {
+  display: none
+}
+body[data-page="admissions"] .saved-program-links a[href^="http"]::after {
+  content: "\A" attr(href);
+  display: block;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  font-size: 9pt;
+  font-weight: 400
+}
+body[data-page="admissions"] .preparation-list {
+  padding: 2mm 4mm;
+  background: #fff
+}
+body[data-page="admissions"] .preparation-list label {
+  min-height: 0;
+  padding: 3mm 0;
+  break-inside: avoid;
+  background: #fff!important;
+  font-size: 10pt;
+  line-height: 1.45
+}
+body[data-page="admissions"] .preparation-list label>span::before {
+  content: "To do — ";
+  font-size: 9pt;
+  font-weight: 700
+}
+body[data-page="admissions"] .preparation-list label:has(input:checked)>span::before {
+  content: "Completed — "
+}
+body[data-page="admissions"] .preparation-list input {
+  width: 4mm;
+  height: 4mm;
+  margin-top: .5mm
+}
+body[data-page="admissions"] .preparation-list small {
+  font-size: 9pt;
+  line-height: 1.5
+}
+body[data-page="admissions"] .reveal {
+  opacity: 1!important;
+  transform: none!important;
+  animation: none!important;
+  transition: none!important
 }
 }
