@@ -1,5 +1,12 @@
 # Student journey review — pending approval
 
+## Cleaned information panels
+
+- `dist/index.html`: removed the programme source panel and both explanatory notes beneath the university statistics; the reported numbers and programme listings remain.
+- `dist/academics.html`: removed the repeated programme source panel; official links remain on the individual listings.
+- `dist/*.html` content pages: removed the repeated photo attribution strip from the footer. The Credits page still carries the photograph author, source and CC BY-SA 4.0 licence.
+- `dist/site.min.css`: regenerated from the existing source; no visual theme changes.
+
 ## Latest homepage refinement
 
 - `dist/index.html`: opt into the landscape hero treatment; change only the casing of the welcome/location labels. Copy, links, images and data remain unchanged.
